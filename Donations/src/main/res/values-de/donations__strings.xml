@@ -3,7 +3,7 @@
 
     <string name="donations__button_close">Schließen</string>
     <string name="donations__flattr">Flattr</string>
-    <string name="donations__description">Finden Sie diese Anwendung nützlich?\\nDann unterstützen Sie die Entwicklung durch eine Spende!</string>
+    <string name="donations__description">Finden Sie diese Anwendung nützlich?\nDann unterstützen Sie die Entwicklung durch eine Spende!</string>
     <string name="donations__flattr_description">Flattr berechnet 10% Gebühren</string>
     <string name="donations__google_android_market">Google Play Store</string>
     <string name="donations__google_android_market_not_supported_title">In-App-Spenden werden nicht unterstützt.</string>
